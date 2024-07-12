@@ -55,3 +55,7 @@ local PRIZES = {
     {id = 67890, name = "Custom Item 2", chance = 5},
     -- Add or remove prizes as necessary
 }
+```
+Video
+
+[![Video Demo](https://i9.ytimg.com/vi/gWrXG_T-Omk/mqdefault.jpg?sqp=CLC4wrQG-oaymwEmCMACELQB8quKqQMa8AEB-AH8CYAC0AWKAgwIABABGGUgVyhKMA8=&rs=AOn4CLBddr8u-CbAnPo-y4gs-nXg7JXgwg)](https://www.youtube.com/watch?v=gWrXG_T-Omk)
