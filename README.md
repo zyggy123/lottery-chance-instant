@@ -1,4 +1,4 @@
-<center><img src="https://github.com/zyggy123/zyggy123/blob/images/a-visually-captivating-digital-artwork-of-the-icon-LLOBLlb5TMqLYNKXaaQakw-PHo4zlHbS9uSr4VTJDS0xA.jpeg" alt="Logo" width="500"/></center>
+<center><img src="https://github.com/zyggy123/lottery-chance-instant/blob/main/image2.jpeg" alt="Logo" width="500"/></center>
 
 ## Name: Lottery Instant Chance System
 ## Author: Zyggy123
@@ -58,4 +58,4 @@ local PRIZES = {
 ```
 Video
 
-[![Video Demo](https://i9.ytimg.com/vi/gWrXG_T-Omk/mqdefault.jpg?sqp=CLC4wrQG-oaymwEmCMACELQB8quKqQMa8AEB-AH8CYAC0AWKAgwIABABGGUgVyhKMA8=&rs=AOn4CLBddr8u-CbAnPo-y4gs-nXg7JXgwg)](https://www.youtube.com/watch?v=gWrXG_T-Omk)
+[![Video Demo](https://i9.ytimg.com/vi_webp/gWrXG_T-Omk/mq2.webp?sqp=CMCWxrQG-oaymwEmCMACELQB8quKqQMa8AEB-AH8CYAC0AWKAgwIABABGGUgVyhKMA8=&rs=AOn4CLDWBtoz1TJvY_LtrFzirHubJ_mQtQ)](https://www.youtube.com/watch?v=gWrXG_T-Omk)
