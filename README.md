@@ -58,4 +58,4 @@ local PRIZES = {
 ```
 Video
 
-[![Video Demo](https://i9.ytimg.com/vi_webp/gWrXG_T-Omk/mq2.webp?sqp=CMCWxrQG-oaymwEmCMACELQB8quKqQMa8AEB-AH8CYAC0AWKAgwIABABGGUgVyhKMA8=&rs=AOn4CLDWBtoz1TJvY_LtrFzirHubJ_mQtQ)](https://www.youtube.com/watch?v=gWrXG_T-Omk)
+[![Video Demo](https://github.com/zyggy123/Treasure-Chest-System/blob/main/Youtube.png)](https://www.youtube.com/watch?v=gWrXG_T-Omk)
