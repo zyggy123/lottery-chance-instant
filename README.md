@@ -56,6 +56,6 @@ local PRIZES = {
     -- Add or remove prizes as necessary
 }
 ```
-Video
+<h1 align="center">Video</h1>
 
 [![Video Demo](https://github.com/zyggy123/Treasure-Chest-System/blob/main/Youtube.png)](https://www.youtube.com/watch?v=gWrXG_T-Omk)
