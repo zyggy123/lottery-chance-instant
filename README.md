@@ -1,4 +1,4 @@
-<center><img src="https://github.com/zyggy123/lottery-chance-instant/blob/main/image2.jpeg" alt="Logo" width="500"/></center>
+<p align="center"><img src="https://github.com/zyggy123/lottery-chance-instant/blob/main/icon.ong" alt="Logo" width="250"/></p>
 
 ## Name: Lottery Instant Chance System
 ## Author: Zyggy123
